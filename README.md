@@ -5,11 +5,11 @@ Inventory of All the Crypto Leaks
 
 Feel free to send in a PR if you know of other leaks 
 
-|Date           | Company                          |Notes  | URL|
+|Date           | Company                          |Notes  | 
 | ------------- | --------------------------------------------------------------|------------- |
-| 01/09/2022    |www.citydao.io | A CityDAO Discord admin account has been hacked
-| 01/10/2022    | Scam Binance.com | Pakistan’s Investigation Agency Contacts Binance About $100M Scam            |
-| 01/16/2022    |Crypto.com  |Says Hackers Stole Nearly $34M From Users| https://www.coindesk.com/business/2022/01/20/cryptocom-says-hackers-stole-nearly-34m-from-users/ | https://www.coindesk.com/business/2022/01/19/cryptocom-ceo-acknowledges-400-customer-accounts-were-hacked/ 
-| 01/17/2022    |Multichain.org | Hack against Multichain users
-| 01/24/2022    | https://opensea.io/ | UI issues leads to 347 ETH Exploiting
-| 01/25/2022    | twitter.com | NFT Holders Poke Holes In Twitter’s NFT Verification Feature
+| 01/09/2022    |www.citydao.io | <a href="https://www.coindesk.com/business/2022/01/14/blockchain-city-citydao-falls-victim-to-95k-hack-via-discord/"> A CityDAO Discord admin account has been hacked </a>
+| 01/10/2022    | Scam Binance.com | <a href="https://www.coindesk.com/policy/2022/01/10/pakistans-investigation-agency-contacts-binance-about-100m-scam/"> Pakistan’s Investigation Agency Contacts Binance About $100M Scam   </a>         
+| 01/16/2022    |Crypto.com  | <a href="https://www.coindesk.com/business/2022/01/19/cryptocom-ceo-acknowledges-400-customer-accounts-were-hacked/"> Says Hackers Stole Nearly $34M From Users </a>| 
+| 01/17/2022    |Multichain.org | <a href="https://www.vice.com/en/article/epxb8m/crypto-protocol-publicly-announces-flaw-users-relentlessly-owned-by-hackers"> Hack against Multichain users </a>
+| 01/24/2022    | https://opensea.io/ | <a href="https://u.today/opensea-faces-front-end-vulnerability-user-makes-347-eth-exploiting-it"> UI issues leads to 347 ETH Exploiting </a>
+| 01/25/2022    | twitter.com | <a href="https://zycrypto.com/nft-holders-poke-holes-in-twitters-nft-verification-feature/"> NFT Holders Poke Holes In Twitter’s NFT Verification Feature </a>
