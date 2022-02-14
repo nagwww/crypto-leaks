@@ -15,6 +15,7 @@ Feel free to send in a PR if you know of other leaks
 | 01/17/2022    |Multichain.org | <a href="https://www.vice.com/en/article/epxb8m/crypto-protocol-publicly-announces-flaw-users-relentlessly-owned-by-hackers"> Hack against Multichain users </a>
 | 01/24/2022    | https://opensea.io/ | <a href="https://u.today/opensea-faces-front-end-vulnerability-user-makes-347-eth-exploiting-it"> UI issues leads to 347 ETH Exploiting </a>
 | 01/25/2022    | twitter.com | <a href="https://zycrypto.com/nft-holders-poke-holes-in-twitters-nft-verification-feature/"> NFT Holders Poke Holes In Twitter’s NFT Verification Feature </a>
+|01/27/2022     | https://qbt.fi/app | <a href="https://www.theverge.com/2022/1/28/22906366/cryptocurrency-hackers-steal-qubit-binance-ethereum"> Qubit Finance suffers $80 million loss following hack</a>
 
 Learnings and Lessons learned from Jan 2022
 
