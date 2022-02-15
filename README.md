@@ -26,3 +26,4 @@ Learnings and Lessons learned from Jan 2022
 | 02/02/2022    |https://portalbridge.com/#/transfer | <a href="https://www.coindesk.com/tech/2022/02/02/blockchain-bridge-wormhole-suffers-possible-exploit-worth-over-250m/"> Blockchain Bridge Wormhole Suffers Possible Exploit Worth Over $326M</a>
 | 02/05/2022    |https://meter.io/ | <a href="https://www.coindesk.com/business/2022/02/07/44m-stolen-in-hack-of-blockchain-infrastructure-firm-meter/"> $4.4M Stolen in Hack of Blockchain Infrastructure Firm Meter</a>
 | 02/09/2022    |https://dego.finance/ | <a href="https://degofinance.medium.com/to-dego-community-summary-of-the-event-after-a-thorough-investigation-and-efforts-5315a98d9984"> Keys/Contract stolen and minted coins at will </a>
+|02/14/2022 | | <a href="https://titano.medium.com/important-announcement-dec5a6078d46"> 1.9 Million to air </a>|
