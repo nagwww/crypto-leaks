@@ -31,4 +31,6 @@ Learnings and Lessons learned from Jan 2022
 |02/20/2022 | build.finance | <a href="https://www.theverge.com/2022/2/20/22943228/opensea-phishing-hack-smart-contract-bug-stolen-nft"> $1.7 million in NFTs stolen in apparent phishing attack on OpenSea users </a>|
 
 ### March 2022
+
+|Date           | Company                          |Notes  | 
 |03/04/2022 | convexfinance.com | <a href="https://www.coindesk.com/tech/2022/03/04/convex-finance-bug-causes-cvx-token-to-sink-on-forced-token-unlock/">A bug in smart contract exploited </a>
