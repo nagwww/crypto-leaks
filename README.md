@@ -32,5 +32,7 @@ Learnings and Lessons learned from Jan 2022
 
 ### March 2022
 
+
 |Date           | Company                          |Notes  | 
+| ------------- | --------------------------------------------------------------|------------- |
 |03/04/2022 | convexfinance.com | <a href="https://www.coindesk.com/tech/2022/03/04/convex-finance-bug-causes-cvx-token-to-sink-on-forced-token-unlock/">A bug in smart contract exploited </a>
