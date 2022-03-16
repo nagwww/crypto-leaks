@@ -37,3 +37,4 @@ Learnings and Lessons learned from Jan 2022
 | ------------- | --------------------------------------------------------------|------------- |
 |03/04/2022 | convexfinance.com | <a href="https://www.coindesk.com/tech/2022/03/04/convex-finance-bug-causes-cvx-token-to-sink-on-forced-token-unlock/">A bug in smart contract exploited </a>
 |03/15/2022 | https://agave.finance/ | <a href="https://www.coindesk.com/business/2022/03/15/defi-lending-protocol-agave-plunges-over-20-amid-exploit-investigation/">DeFi Lending Protocol Agave's AGVE Plunges Over 20% Amid Exploit Investigation</a>
+|03/16/2022 | https://unchained.com/ | <a href="https://www.coindesk.com/business/2022/03/16/unchained-capital-discloses-data-leak-at-email-marketing-partner/">Unchained Capital Discloses Data Leak at Email Marketing Partner</a>
