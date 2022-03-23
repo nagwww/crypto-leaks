@@ -39,3 +39,4 @@ Learnings and Lessons learned from Jan 2022
 |03/06/2022 | https://www.baconcoin.com/ | <a href="https://mirror.xyz/baconcoin.eth/LHaPiX38mnx8eJ2RVKNXHttHfweQMKNGmEnX4KUksk0"> contract on the Ethereum mainnet exploited </a>
 |03/15/2022 | https://agave.finance/ | <a href="https://www.coindesk.com/business/2022/03/15/defi-lending-protocol-agave-plunges-over-20-amid-exploit-investigation/">DeFi Lending Protocol Agave's AGVE Plunges Over 20% Amid Exploit Investigation</a>
 |03/16/2022 | https://unchained.com/ | <a href="https://www.coindesk.com/business/2022/03/16/unchained-capital-discloses-data-leak-at-email-marketing-partner/">Unchained Capital Discloses Data Leak at Email Marketing Partner</a>
+|03/23/2022 | https://cashio.app | <a href="https://www.coindesk.com/tech/2022/03/23/stablecoin-cashio-suffers-infinite-glitch-exploit-tvl-drops-by-28m/"> Cashio's CASH token has lost almost all its value </a>
